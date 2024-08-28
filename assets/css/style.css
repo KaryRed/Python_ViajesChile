@@ -139,6 +139,13 @@ footer a:active {
   color: #fff;
 }
 
+footer p {
+    font-size: 0.9rem;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
 /* Media Queries para icos */
 @media (max-width: 375px) {
   footer i {
